@@ -13,13 +13,13 @@ This project focuses on analyzing workforce data to uncover meaningful patterns 
 5. Interactive Dashboards: Drill‑down reports with filters for HR managers and executives.
 
 # Tools & Technologies
-Power BI: Dynamic dashboards with DAX measures and data modeling.
+  Power BI: Dynamic dashboards with DAX measures and data modeling.
 
-Excel: Advanced formulas, pivot tables, and charts for quick analysis.
+  Excel: Advanced formulas, pivot tables, and charts for quick analysis.
 
-SQL: Querying and cleaning employee datasets.
+  SQL: Querying and cleaning employee datasets.
 
-Python: Data preprocessing and statistical analysis.
+  Python: Data preprocessing and statistical analysis.
 
 # Business Impact
 1. Helps HR teams reduce attrition by identifying risk factors.
